@@ -1,0 +1,135 @@
+========================================================================
+FINDINGS: Bay Platform <-> Underwater Mission Correlation
+========================================================================
+
+DATA COVERAGE
+----------------------------------------
+* Platform data: 2025-03 through 2025-12 (7 stations, L0-L6)
+* Missions: Mar 15 2024 (dry), Oct 25 2024 (wet), Mar 18 2025 (dry)
+* Only March 2025 missions have direct temporal overlap with platforms
+* 2024 comparisons are structural (same parameter, different location/time)
+
+1. SPATIAL GRADIENT -- INLAND TO BARRIER ISLANDS
+----------------------------------------
+  Canal/River (L1,L3,L4):  DO = 4.50 +/- 2.26 mg/L  |  Salinity = 4.0 PPT
+  Open Bay (L0,L2):        DO = 5.95 +/- 1.70 mg/L  |  Salinity = 21.7 PPT
+  Causeway (L5,L6):        DO = 6.26 +/- 1.20 mg/L  |  Salinity = 23.3 PPT
+  Barrier Islands (Mar 2024 (dry)): DO = 6.84 +/- 0.48 mg/L  |  Salinity = 33.1 PPT
+  Barrier Islands (Mar 2025 (dry)): DO = 6.86 +/- 0.19 mg/L  |  Salinity = 33.2 PPT
+  Barrier Islands (Oct 2024 (wet)): DO = 7.36 +/- 1.46 mg/L  |  Salinity = 30.9 PPT
+
+  -> Key finding: Water quality improves dramatically from inland
+    freshwater sources toward the barrier islands. The missions
+    near the holocene barriers consistently show healthy DO (>6 mg/L)
+    while canal/river stations (L1, L3) are chronically hypoxic.
+    Canal/river hypoxic readings: 15.6%
+    Barrier-island mission hypoxic readings: 0.0%
+
+2. SEASONAL EFFECTS (same barrier-island location)
+----------------------------------------
+  Mar 2024 (dry):
+    DO:          6.84 +/- 0.48 mg/L  (range 4.3-8.2)
+    Salinity:    33.1 +/- 5.3 PPT  (range 0.2-36.1)
+    Temperature: 25.4 +/- 0.4 deg C
+    Turbidity:   median 8.4 FNU  (mean 113.9, skewed by spikes up to 3420)
+  Mar 2025 (dry):
+    DO:          6.86 +/- 0.19 mg/L  (range 6.6-7.8)
+    Salinity:    33.2 +/- 4.1 PPT  (range 4.2-35.0)
+    Temperature: 24.0 +/- 0.2 deg C
+    Turbidity:   median 2.2 FNU  (mean 21.6, skewed by spikes up to 1736)
+  Oct 2024 (wet):
+    DO:          7.36 +/- 1.46 mg/L  (range 2.7-13.1)
+    Salinity:    30.9 +/- 4.1 PPT  (range 0.2-34.9)
+    Temperature: 27.6 +/- 0.3 deg C
+    Turbidity:   median 12.3 FNU  (mean 133.5, skewed by spikes up to 2130)
+
+  -> Dry season (March) vs Wet season (October):
+    Temperature: 24.6deg C (dry) vs 27.6deg C (wet)  -- +2.9deg C warmer
+    Salinity: 33.1 PPT (dry) vs 30.9 PPT (wet)  -- lower in wet season
+    DO: 6.84 mg/L (dry) vs 7.36 mg/L (wet)
+    Warmer wet-season water holds less DO (solubility effect),
+    but missions still show healthy levels at barrier islands.
+    Possible freshwater runoff influence visible in lower salinity readings.
+
+3. WATER MASS IDENTIFICATION (T-S ANALYSIS)
+----------------------------------------
+  Canal/river stations (L1, L3): nearly fresh (<1-8 PPT), wide T range
+  Open bay (L0, L2): brackish-marine mix (16-24 PPT)
+  Causeway (L5, L6): marine-dominated (19-33 PPT)
+  Barrier-island missions: strongly marine (30-35 PPT in dry season)
+
+  -> The missions sample water closer to open-ocean influence
+    than any of the fixed platforms. L6 (south of causeway)
+    is the platform closest in salinity to mission readings.
+    This confirms missions are in a distinct, more oceanic
+    water mass separated from canal/river discharge.
+
+4. WHAT MISSIONS REVEAL THAT PLATFORMS CANNOT
+----------------------------------------
+  * Vertical water-column structure (depth profiles of DO, salinity,
+    turbidity) -- platforms are fixed at one depth
+  * High-frequency spatial transects (GPS-tracked)
+  * Chlorophyll/phycocyanin (algal bloom indicators, March 2024)
+  * pH measurements (ocean acidification context, March 2024)
+  * Conditions at the barrier islands themselves -- no platform exists there
+
+5. WHAT PLATFORMS REVEAL THAT MISSIONS CANNOT
+----------------------------------------
+  * Long-term temporal trends and seasonal cycles
+  * Diurnal (day/night) DO patterns driven by photosynthesis/respiration
+  * Chronic hypoxia documentation (L3: 78% problematic, L1: 59%)
+  * Freshwater discharge timing and duration
+  * Multi-month context for interpreting single-day mission snapshots
+
+6. TURBIDITY PATTERNS
+----------------------------------------
+  Mission median turbidity: 2.8 FNU  (generally low, with episodic spikes from bottom disturbance)
+  Platform turbidity varies hugely by location:
+    L1 - Biscayne Canal: median -0.1 FNU, mean 9.7 FNU
+    L3 - Little River Up: median 5.6 FNU, mean 16.1 FNU
+    L4 - Little River Down: median 50.4 FNU, mean 65.5 FNU
+    L0 - FIU BBC: median 43.9 FNU, mean 251.8 FNU
+    L2 - Canal-Bay Junction: median 0.1 FNU, mean 50.6 FNU
+    L5 - NBV North: median 14.8 FNU, mean 240.9 FNU
+    L6 - NBV South: median 25.1 FNU, mean 65.3 FNU
+  -> High median turbidity at L5 (NBV North) and L0 (FIU BBC) suggests
+    persistent sediment resuspension or runoff; barrier-island missions
+    see clearer water at baseline with occasional bottom-disturbance spikes.
+
+7. MARCH 2025 -- DIRECT TEMPORAL OVERLAP
+----------------------------------------
+  The only campaign with simultaneous platform data.
+  Mission sonde DO: 6.86 mg/L (from 4 sonde files)
+  Mission DO %sat:  76.7% (all sensors)
+  Platform DO (+/-7 days of Mar 18, 2025):
+    L1 - Biscayne Canal: 7.74 +/- 0.34 mg/L (14,992 readings)
+    L3 - Little River Up: 4.42 +/- 0.88 mg/L (13,155 readings)
+    L2 - Canal-Bay Junction: 6.26 +/- 1.88 mg/L (34,747 readings)
+  -> Mission sonde readings are consistent with nearby platform L2,
+    confirming the barrier-island area has comparable or better DO
+    than the open-bay mixing zone.
+
+========================================================================
+CONCLUSION
+========================================================================
+The underwater missions near the North Bay holocene barrier islands
+consistently show healthier water quality than inland platform stations:
+  * Higher DO (well above stress/hypoxic thresholds)
+  * Higher, more stable salinity (oceanic influence)
+  * Lower baseline turbidity (with episodic bottom-disturbance spikes)
+  * Temperature driven primarily by season (~25deg C dry, ~28deg C wet)
+
+The freshwater canal/river stations (L1, L3, L4) represent a fundamentally
+different water mass with chronic hypoxia and nearly zero salinity. The
+gradient from these degraded inland sources to the healthy barrier-island
+conditions suggests that:
+  1. The barrier islands are relatively buffered from canal discharge
+  2. Tidal flushing and ocean exchange maintain DO near saturation
+  3. Seasonal temperature shifts affect DO solubility but not enough
+     to cause stress at the barrier-island location
+  4. Turbidity spikes at missions are mechanical (bottom contact)
+     rather than from sustained sediment loading as seen at L0/L5
+
+Future work: Deploy a fixed platform near the barrier islands to capture
+long-term temporal patterns at that location, enabling direct time-matched
+comparison with the existing network.

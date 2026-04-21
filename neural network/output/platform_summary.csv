@@ -1,0 +1,8 @@
+Platform,Location,Rows,DO mean,DO min,Turbidity mean,Salinity mean,Hypoxic,Stressed,% Problematic
+L0,FIU BBC,85250,6.25,0.11,123.53,16.32,1181,9358,12.4
+L1,Biscayne Canal,100661,3.88,0.0,21.7,0.39,18852,40762,59.2
+L2,Biscayne Bay (near canal),165544,5.92,0.0,30.64,23.55,3780,13020,10.1
+L3,Little River (upstream),132549,2.86,0.0,15.45,7.68,40387,62947,78.0
+L4,Little River (downstream),154410,5.32,0.29,57.74,5.93,18407,35244,34.7
+L5,JFK Causeway (north),71438,6.36,0.84,210.67,19.47,147,3250,4.8
+L6,JFK Causeway (south),32609,6.01,2.88,44.29,32.91,0,883,2.7

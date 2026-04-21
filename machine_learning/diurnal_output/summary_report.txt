@@ -1,0 +1,413 @@
+========================================================================
+DIURNAL PATTERN SUMMARY  -  North Biscayne Bay Water Stations
+Data file : cleaned_merged.csv
+Months    : Mar 2025, Apr 2025, May 2025, Jun 2025, Jul 2025, Aug 2025
+Stations  : l0 - l7
+========================================================================
+
+------------------------------------------------------------------------
+FEATURE: temperature_c
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   25.951 | peak hour=19:00 (max=27.070) | trough hour=12:00 (min=25.299) | diurnal amplitude=1.771
+      May 2025 | overall mean=   28.936 | peak hour=21:00 (max=29.552) | trough hour=12:00 (min=28.364) | diurnal amplitude=1.188
+      Jun 2025 | overall mean=   29.802 | peak hour=21:00 (max=30.528) | trough hour=10:00 (min=29.120) | diurnal amplitude=1.408
+      Jul 2025 | overall mean=   30.693 | peak hour=21:00 (max=31.505) | trough hour=11:00 (min=29.961) | diurnal amplitude=1.544
+      Aug 2025 | overall mean=   32.070 | peak hour=20:00 (max=32.873) | trough hour=10:00 (min=31.319) | diurnal amplitude=1.554
+
+  Station L1
+      Mar 2025 | overall mean=   25.220 | peak hour=21:00 (max=26.216) | trough hour=13:00 (min=24.500) | diurnal amplitude=1.716
+      Apr 2025 | overall mean=   27.354 | peak hour=23:00 (max=28.281) | trough hour=04:00 (min=26.763) | diurnal amplitude=1.518
+      May 2025 | overall mean=   29.444 | peak hour=17:00 (max=29.899) | trough hour=12:00 (min=29.002) | diurnal amplitude=0.897
+      Jun 2025 | overall mean=   30.195 | peak hour=17:00 (max=30.684) | trough hour=12:00 (min=29.797) | diurnal amplitude=0.887
+      Jul 2025 | overall mean=   30.619 | peak hour=19:00 (max=31.127) | trough hour=12:00 (min=30.203) | diurnal amplitude=0.925
+      Aug 2025 | overall mean=   31.557 | peak hour=17:00 (max=32.328) | trough hour=11:00 (min=30.979) | diurnal amplitude=1.349
+
+  Station L2
+      Mar 2025 | overall mean=   25.043 | peak hour=21:00 (max=26.031) | trough hour=14:00 (min=24.141) | diurnal amplitude=1.890
+      Apr 2025 | overall mean=   26.337 | peak hour=20:00 (max=27.366) | trough hour=08:00 (min=25.830) | diurnal amplitude=1.535
+      May 2025 | overall mean=   30.123 | peak hour=21:00 (max=30.971) | trough hour=12:00 (min=29.332) | diurnal amplitude=1.639
+      Jun 2025 | overall mean=   30.285 | peak hour=20:00 (max=31.207) | trough hour=12:00 (min=29.432) | diurnal amplitude=1.775
+      Jul 2025 | overall mean=   31.361 | peak hour=20:00 (max=32.215) | trough hour=10:00 (min=30.668) | diurnal amplitude=1.547
+      Aug 2025 | overall mean=   32.769 | peak hour=21:00 (max=33.656) | trough hour=10:00 (min=32.111) | diurnal amplitude=1.546
+
+  Station L3
+      Mar 2025 | overall mean=   24.932 | peak hour=21:00 (max=27.117) | trough hour=12:00 (min=23.260) | diurnal amplitude=3.857
+      Apr 2025 | overall mean=   27.006 | peak hour=20:00 (max=28.165) | trough hour=07:00 (min=26.203) | diurnal amplitude=1.962
+      May 2025 | overall mean=   28.902 | peak hour=19:00 (max=29.704) | trough hour=11:00 (min=28.334) | diurnal amplitude=1.370
+      Jun 2025 | overall mean=   29.855 | peak hour=10:00 (max=30.157) | trough hour=18:00 (min=29.470) | diurnal amplitude=0.687
+      Aug 2025 | overall mean=   30.756 | peak hour=21:00 (max=31.403) | trough hour=13:00 (min=30.305) | diurnal amplitude=1.097
+
+  Station L4
+      May 2025 | overall mean=   29.336 | peak hour=14:00 (max=30.511) | trough hour=09:00 (min=28.262) | diurnal amplitude=2.249
+      Jun 2025 | overall mean=   28.593 | peak hour=04:00 (max=29.018) | trough hour=20:00 (min=28.176) | diurnal amplitude=0.842
+      Aug 2025 | overall mean=   31.080 | peak hour=22:00 (max=31.649) | trough hour=08:00 (min=30.438) | diurnal amplitude=1.211
+
+  Station L5
+      Mar 2025 | overall mean=   25.296 | peak hour=21:00 (max=25.812) | trough hour=12:00 (min=24.693) | diurnal amplitude=1.119
+      Apr 2025 | overall mean=   26.821 | peak hour=20:00 (max=27.580) | trough hour=12:00 (min=26.215) | diurnal amplitude=1.365
+      May 2025 | overall mean=   27.469 | peak hour=21:00 (max=27.928) | trough hour=12:00 (min=27.007) | diurnal amplitude=0.921
+      Jul 2025 | overall mean=   31.541 | peak hour=20:00 (max=32.403) | trough hour=12:00 (min=30.822) | diurnal amplitude=1.581
+
+  Station L6
+      May 2025 | overall mean=   30.875 | peak hour=21:00 (max=32.103) | trough hour=12:00 (min=30.005) | diurnal amplitude=2.098
+      Jun 2025 | overall mean=   30.525 | peak hour=19:00 (max=31.307) | trough hour=13:00 (min=29.814) | diurnal amplitude=1.494
+      Jul 2025 | overall mean=   31.500 | peak hour=21:00 (max=32.377) | trough hour=13:00 (min=30.710) | diurnal amplitude=1.667
+      Aug 2025 | overall mean=   32.587 | peak hour=18:00 (max=32.970) | trough hour=01:00 (min=32.105) | diurnal amplitude=0.865
+
+------------------------------------------------------------------------
+FEATURE: specific_conductance_us_cm
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=44039.516 | peak hour=02:00 (max=49105.894) | trough hour=22:00 (min=27444.627) | diurnal amplitude=21661.266
+      May 2025 | overall mean=52498.926 | peak hour=15:00 (max=53447.946) | trough hour=16:00 (min=50368.883) | diurnal amplitude=3079.063
+      Jun 2025 | overall mean=46344.447 | peak hour=23:00 (max=47276.547) | trough hour=01:00 (min=45060.507) | diurnal amplitude=2216.040
+      Jul 2025 | overall mean=48463.248 | peak hour=12:00 (max=48621.679) | trough hour=23:00 (min=48293.032) | diurnal amplitude=328.647
+      Aug 2025 | overall mean=46624.433 | peak hour=12:00 (max=48113.927) | trough hour=22:00 (min=43928.593) | diurnal amplitude=4185.334
+
+  Station L1
+      Mar 2025 | overall mean= 1642.672 | peak hour=20:00 (max=1682.359) | trough hour=07:00 (min=1580.640) | diurnal amplitude=101.719
+      Apr 2025 | overall mean= 1006.578 | peak hour=06:00 (max=1013.414) | trough hour=04:00 (min=989.206) | diurnal amplitude=24.209
+      May 2025 | overall mean=  912.299 | peak hour=17:00 (max=942.150) | trough hour=10:00 (min=888.358) | diurnal amplitude=53.792
+      Jun 2025 | overall mean=  729.126 | peak hour=15:00 (max=840.742) | trough hour=02:00 (min=703.280) | diurnal amplitude=137.462
+      Jul 2025 | overall mean=  606.964 | peak hour=20:00 (max=618.772) | trough hour=07:00 (min=591.189) | diurnal amplitude=27.582
+      Aug 2025 | overall mean=  724.957 | peak hour=18:00 (max=785.554) | trough hour=07:00 (min=681.614) | diurnal amplitude=103.940
+
+  Station L2
+      Mar 2025 | overall mean=51187.112 | peak hour=17:00 (max=53571.427) | trough hour=16:00 (min=47051.694) | diurnal amplitude=6519.734
+      Apr 2025 | overall mean=44486.539 | peak hour=16:00 (max=50051.629) | trough hour=00:00 (min=41035.236) | diurnal amplitude=9016.393
+      May 2025 | overall mean=48279.162 | peak hour=14:00 (max=49778.180) | trough hour=19:00 (min=45981.192) | diurnal amplitude=3796.988
+      Jun 2025 | overall mean=41431.088 | peak hour=11:00 (max=43106.287) | trough hour=07:00 (min=38841.391) | diurnal amplitude=4264.896
+      Jul 2025 | overall mean=36817.944 | peak hour=00:00 (max=39736.176) | trough hour=07:00 (min=33437.766) | diurnal amplitude=6298.410
+      Aug 2025 | overall mean=40883.175 | peak hour=14:00 (max=44549.948) | trough hour=22:00 (min=37454.787) | diurnal amplitude=7095.162
+
+  Station L3
+      Mar 2025 | overall mean=39344.607 | peak hour=20:00 (max=42274.432) | trough hour=00:00 (min=35816.432) | diurnal amplitude=6458.001
+      Apr 2025 | overall mean=16573.171 | peak hour=01:00 (max=24624.423) | trough hour=11:00 (min=10177.915) | diurnal amplitude=14446.508
+      May 2025 | overall mean=15797.976 | peak hour=06:00 (max=18526.473) | trough hour=13:00 (min=14610.582) | diurnal amplitude=3915.891
+      Jun 2025 | overall mean=15022.158 | peak hour=10:00 (max=44606.508) | trough hour=17:00 (min=808.499) | diurnal amplitude=43798.010
+      Aug 2025 | overall mean= 6557.393 | peak hour=09:00 (max=16583.972) | trough hour=18:00 (min=1326.914) | diurnal amplitude=15257.058
+
+  Station L4
+      May 2025 | overall mean=21294.532 | peak hour=10:00 (max=26233.805) | trough hour=03:00 (min=18618.871) | diurnal amplitude=7614.934
+      Jun 2025 | overall mean= 7007.587 | peak hour=13:00 (max=20508.570) | trough hour=16:00 (min=1800.434) | diurnal amplitude=18708.136
+      Aug 2025 | overall mean= 9870.634 | peak hour=14:00 (max=16673.604) | trough hour=18:00 (min=2941.975) | diurnal amplitude=13731.629
+
+  Station L5
+      Mar 2025 | overall mean=53314.366 | peak hour=16:00 (max=53413.794) | trough hour=21:00 (min=53175.421) | diurnal amplitude=238.373
+      Apr 2025 | overall mean=18430.056 | peak hour=21:00 (max=21376.476) | trough hour=16:00 (min=14257.925) | diurnal amplitude=7118.551
+      May 2025 | overall mean=52368.303 | peak hour=09:00 (max=53471.892) | trough hour=16:00 (min=50233.890) | diurnal amplitude=3238.002
+      Jul 2025 | overall mean=39952.305 | peak hour=22:00 (max=40991.203) | trough hour=00:00 (min=37682.606) | diurnal amplitude=3308.597
+
+  Station L6
+      May 2025 | overall mean=54144.425 | peak hour=17:00 (max=54440.664) | trough hour=21:00 (min=53775.523) | diurnal amplitude=665.141
+      Jun 2025 | overall mean=51403.872 | peak hour=00:00 (max=51706.649) | trough hour=13:00 (min=51104.945) | diurnal amplitude=601.704
+      Jul 2025 | overall mean=47900.781 | peak hour=09:00 (max=48683.198) | trough hour=17:00 (min=43959.662) | diurnal amplitude=4723.536
+      Aug 2025 | overall mean=48903.495 | peak hour=17:00 (max=49854.920) | trough hour=01:00 (min=46830.612) | diurnal amplitude=3024.307
+
+------------------------------------------------------------------------
+FEATURE: salinity_ppt
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   28.575 | peak hour=02:00 (max=32.078) | trough hour=22:00 (min=17.541) | diurnal amplitude=14.536
+      May 2025 | overall mean=   34.531 | peak hour=15:00 (max=35.177) | trough hour=16:00 (min=33.142) | diurnal amplitude=2.035
+      Jun 2025 | overall mean=   30.299 | peak hour=15:00 (max=30.901) | trough hour=01:00 (min=29.445) | diurnal amplitude=1.456
+      Jul 2025 | overall mean=   31.452 | peak hour=12:00 (max=31.591) | trough hour=23:00 (min=31.306) | diurnal amplitude=0.285
+      Aug 2025 | overall mean=   30.073 | peak hour=12:00 (max=31.156) | trough hour=22:00 (min=28.111) | diurnal amplitude=3.045
+
+  Station L1
+      Mar 2025 | overall mean=    0.827 | peak hour=15:00 (max=0.850) | trough hour=07:00 (min=0.797) | diurnal amplitude=0.053
+      Apr 2025 | overall mean=    0.493 | peak hour=12:00 (max=0.499) | trough hour=04:00 (min=0.484) | diurnal amplitude=0.014
+      May 2025 | overall mean=    0.446 | peak hour=17:00 (max=0.462) | trough hour=10:00 (min=0.435) | diurnal amplitude=0.027
+      Jun 2025 | overall mean=    0.352 | peak hour=15:00 (max=0.411) | trough hour=02:00 (min=0.339) | diurnal amplitude=0.072
+      Jul 2025 | overall mean=    0.292 | peak hour=19:00 (max=0.297) | trough hour=07:00 (min=0.284) | diurnal amplitude=0.012
+      Aug 2025 | overall mean=    0.349 | peak hour=18:00 (max=0.379) | trough hour=08:00 (min=0.327) | diurnal amplitude=0.052
+
+  Station L2
+      Mar 2025 | overall mean=   33.675 | peak hour=17:00 (max=35.381) | trough hour=16:00 (min=30.818) | diurnal amplitude=4.563
+      Apr 2025 | overall mean=   29.104 | peak hour=16:00 (max=32.774) | trough hour=00:00 (min=26.781) | diurnal amplitude=5.993
+      May 2025 | overall mean=   31.409 | peak hour=11:00 (max=32.450) | trough hour=19:00 (min=29.856) | diurnal amplitude=2.594
+      Jun 2025 | overall mean=   26.489 | peak hour=11:00 (max=27.640) | trough hour=07:00 (min=24.790) | diurnal amplitude=2.851
+      Jul 2025 | overall mean=   23.494 | peak hour=00:00 (max=25.271) | trough hour=07:00 (min=21.265) | diurnal amplitude=4.006
+      Aug 2025 | overall mean=   26.037 | peak hour=14:00 (max=28.592) | trough hour=22:00 (min=23.668) | diurnal amplitude=4.924
+
+  Station L3
+      Mar 2025 | overall mean=   25.062 | peak hour=20:00 (max=27.100) | trough hour=00:00 (min=22.578) | diurnal amplitude=4.523
+      Apr 2025 | overall mean=   10.045 | peak hour=01:00 (max=15.076) | trough hour=11:00 (min=6.212) | diurnal amplitude=8.865
+      May 2025 | overall mean=    9.846 | peak hour=06:00 (max=11.549) | trough hour=13:00 (min=9.101) | diurnal amplitude=2.448
+      Jun 2025 | overall mean=    9.301 | peak hour=10:00 (max=28.675) | trough hour=17:00 (min=0.392) | diurnal amplitude=28.283
+      Aug 2025 | overall mean=    3.853 | peak hour=09:00 (max=10.252) | trough hour=18:00 (min=0.666) | diurnal amplitude=9.586
+
+  Station L4
+      May 2025 | overall mean=   13.499 | peak hour=10:00 (max=16.814) | trough hour=03:00 (min=11.776) | diurnal amplitude=5.038
+      Jun 2025 | overall mean=    4.055 | peak hour=13:00 (max=12.736) | trough hour=16:00 (min=0.907) | diurnal amplitude=11.829
+      Aug 2025 | overall mean=    5.855 | peak hour=14:00 (max=10.137) | trough hour=18:00 (min=1.542) | diurnal amplitude=8.595
+
+  Station L5
+      Mar 2025 | overall mean=   35.175 | peak hour=16:00 (max=35.259) | trough hour=21:00 (min=35.059) | diurnal amplitude=0.200
+      Apr 2025 | overall mean=   11.615 | peak hour=21:00 (max=13.624) | trough hour=16:00 (min=8.869) | diurnal amplitude=4.755
+      May 2025 | overall mean=   34.497 | peak hour=09:00 (max=35.241) | trough hour=16:00 (min=33.079) | diurnal amplitude=2.162
+      Jul 2025 | overall mean=   25.720 | peak hour=22:00 (max=26.410) | trough hour=16:00 (min=24.237) | diurnal amplitude=2.173
+
+  Station L6
+      May 2025 | overall mean=   35.621 | peak hour=17:00 (max=35.852) | trough hour=21:00 (min=35.301) | diurnal amplitude=0.550
+      Jun 2025 | overall mean=   33.609 | peak hour=00:00 (max=33.811) | trough hour=13:00 (min=33.414) | diurnal amplitude=0.397
+      Jul 2025 | overall mean=   31.036 | peak hour=09:00 (max=31.593) | trough hour=17:00 (min=28.444) | diurnal amplitude=3.148
+      Aug 2025 | overall mean=   31.703 | peak hour=17:00 (max=32.383) | trough hour=01:00 (min=30.216) | diurnal amplitude=2.167
+
+------------------------------------------------------------------------
+FEATURE: pressure_psia
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   14.639 | peak hour=04:00 (max=14.928) | trough hour=11:00 (min=14.411) | diurnal amplitude=0.517
+      May 2025 | overall mean=   14.511 | peak hour=16:00 (max=14.955) | trough hour=08:00 (min=14.386) | diurnal amplitude=0.569
+      Jun 2025 | overall mean=   14.569 | peak hour=04:00 (max=15.010) | trough hour=08:00 (min=14.462) | diurnal amplitude=0.548
+      Jul 2025 | overall mean=   14.531 | peak hour=04:00 (max=15.031) | trough hour=07:00 (min=14.407) | diurnal amplitude=0.624
+      Aug 2025 | overall mean=   14.576 | peak hour=04:00 (max=15.096) | trough hour=18:00 (min=14.100) | diurnal amplitude=0.996
+
+  Station L1
+      Mar 2025 | overall mean=   14.782 | peak hour=15:00 (max=14.976) | trough hour=20:00 (min=14.133) | diurnal amplitude=0.843
+      Apr 2025 | overall mean=    1.555 | peak hour=21:00 (max=1.618) | trough hour=05:00 (min=1.466) | diurnal amplitude=0.152
+      May 2025 | overall mean=   12.958 | peak hour=07:00 (max=13.399) | trough hour=20:00 (min=12.488) | diurnal amplitude=0.911
+      Jun 2025 | overall mean=   14.741 | peak hour=13:00 (max=14.987) | trough hour=17:00 (min=14.575) | diurnal amplitude=0.412
+      Jul 2025 | overall mean=   14.984 | peak hour=22:00 (max=15.120) | trough hour=14:00 (min=14.856) | diurnal amplitude=0.264
+      Aug 2025 | overall mean=   14.831 | peak hour=22:00 (max=15.172) | trough hour=17:00 (min=14.559) | diurnal amplitude=0.613
+
+  Station L2
+      Mar 2025 | overall mean=   14.651 | peak hour=16:00 (max=15.020) | trough hour=05:00 (min=14.005) | diurnal amplitude=1.014
+      Apr 2025 | overall mean=   15.346 | peak hour=01:00 (max=15.711) | trough hour=19:00 (min=14.975) | diurnal amplitude=0.735
+      May 2025 | overall mean=   14.683 | peak hour=10:00 (max=14.966) | trough hour=06:00 (min=14.467) | diurnal amplitude=0.499
+      Jun 2025 | overall mean=   14.589 | peak hour=16:00 (max=14.912) | trough hour=06:00 (min=14.377) | diurnal amplitude=0.535
+      Jul 2025 | overall mean=   14.553 | peak hour=16:00 (max=14.891) | trough hour=06:00 (min=14.289) | diurnal amplitude=0.602
+      Aug 2025 | overall mean=   14.511 | peak hour=19:00 (max=14.862) | trough hour=14:00 (min=14.113) | diurnal amplitude=0.748
+
+  Station L3
+      Mar 2025 | overall mean=   14.498 | peak hour=13:00 (max=15.023) | trough hour=17:00 (min=13.956) | diurnal amplitude=1.067
+      Apr 2025 | overall mean=   14.448 | peak hour=10:00 (max=14.756) | trough hour=17:00 (min=14.053) | diurnal amplitude=0.703
+      May 2025 | overall mean=   14.412 | peak hour=04:00 (max=14.726) | trough hour=06:00 (min=14.210) | diurnal amplitude=0.516
+      Jun 2025 | overall mean=   14.669 | peak hour=07:00 (max=15.838) | trough hour=02:00 (min=9.784) | diurnal amplitude=6.054
+      Aug 2025 | overall mean=   14.891 | peak hour=07:00 (max=15.241) | trough hour=17:00 (min=13.059) | diurnal amplitude=2.182
+
+  Station L4
+      May 2025 | overall mean=   14.628 | peak hour=10:00 (max=15.031) | trough hour=05:00 (min=14.396) | diurnal amplitude=0.634
+      Jun 2025 | overall mean=   14.346 | peak hour=04:00 (max=14.970) | trough hour=09:00 (min=13.572) | diurnal amplitude=1.398
+      Aug 2025 | overall mean=   14.644 | peak hour=01:00 (max=15.023) | trough hour=11:00 (min=14.326) | diurnal amplitude=0.697
+
+  Station L5
+      Mar 2025 | overall mean=   14.559 | peak hour=10:00 (max=14.895) | trough hour=15:00 (min=14.068) | diurnal amplitude=0.827
+      Apr 2025 | overall mean=   14.534 | peak hour=01:00 (max=14.815) | trough hour=15:00 (min=14.203) | diurnal amplitude=0.612
+      May 2025 | overall mean=   14.686 | peak hour=04:00 (max=14.899) | trough hour=12:00 (min=14.493) | diurnal amplitude=0.406
+      Jul 2025 | overall mean=   14.816 | peak hour=01:00 (max=14.894) | trough hour=08:00 (min=14.770) | diurnal amplitude=0.124
+
+  Station L6
+      May 2025 | overall mean=   12.791 | peak hour=18:00 (max=16.230) | trough hour=21:00 (min=7.710) | diurnal amplitude=8.520
+      Jun 2025 | overall mean=   14.887 | peak hour=16:00 (max=15.217) | trough hour=21:00 (min=14.570) | diurnal amplitude=0.647
+      Jul 2025 | overall mean=   14.505 | peak hour=19:00 (max=14.914) | trough hour=00:00 (min=14.072) | diurnal amplitude=0.842
+      Aug 2025 | overall mean=   14.638 | peak hour=01:00 (max=14.936) | trough hour=00:00 (min=14.348) | diurnal amplitude=0.587
+
+------------------------------------------------------------------------
+FEATURE: depth_m
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   10.109 | peak hour=04:00 (max=10.286) | trough hour=11:00 (min=9.940) | diurnal amplitude=0.346
+      May 2025 | overall mean=    9.986 | peak hour=16:00 (max=10.302) | trough hour=08:00 (min=9.895) | diurnal amplitude=0.407
+      Jun 2025 | overall mean=   10.060 | peak hour=04:00 (max=10.364) | trough hour=08:00 (min=9.982) | diurnal amplitude=0.382
+      Jul 2025 | overall mean=   10.028 | peak hour=16:00 (max=10.373) | trough hour=07:00 (min=9.940) | diurnal amplitude=0.433
+      Aug 2025 | overall mean=   10.074 | peak hour=04:00 (max=10.428) | trough hour=18:00 (min=9.744) | diurnal amplitude=0.684
+
+  Station L1
+      Mar 2025 | overall mean=   10.418 | peak hour=15:00 (max=10.553) | trough hour=20:00 (min=9.962) | diurnal amplitude=0.591
+      Apr 2025 | overall mean=    1.097 | peak hour=21:00 (max=1.141) | trough hour=05:00 (min=1.034) | diurnal amplitude=0.108
+      May 2025 | overall mean=    9.147 | peak hour=07:00 (max=9.457) | trough hour=20:00 (min=8.817) | diurnal amplitude=0.641
+      Jun 2025 | overall mean=   10.408 | peak hour=13:00 (max=10.580) | trough hour=17:00 (min=10.292) | diurnal amplitude=0.288
+      Jul 2025 | overall mean=   10.580 | peak hour=22:00 (max=10.678) | trough hour=14:00 (min=10.490) | diurnal amplitude=0.188
+      Aug 2025 | overall mean=   10.476 | peak hour=22:00 (max=10.717) | trough hour=17:00 (min=10.286) | diurnal amplitude=0.432
+
+  Station L2
+      Mar 2025 | overall mean=   10.076 | peak hour=16:00 (max=10.349) | trough hour=05:00 (min=9.621) | diurnal amplitude=0.727
+      Apr 2025 | overall mean=   10.593 | peak hour=01:00 (max=10.852) | trough hour=19:00 (min=10.328) | diurnal amplitude=0.523
+      May 2025 | overall mean=   10.131 | peak hour=22:00 (max=10.333) | trough hour=06:00 (min=9.977) | diurnal amplitude=0.356
+      Jun 2025 | overall mean=   10.103 | peak hour=16:00 (max=10.335) | trough hour=06:00 (min=9.953) | diurnal amplitude=0.382
+      Jul 2025 | overall mean=   10.104 | peak hour=16:00 (max=10.347) | trough hour=06:00 (min=9.921) | diurnal amplitude=0.426
+      Aug 2025 | overall mean=   10.061 | peak hour=19:00 (max=10.323) | trough hour=14:00 (min=9.767) | diurnal amplitude=0.557
+
+  Station L3
+      Mar 2025 | overall mean=   10.034 | peak hour=13:00 (max=10.388) | trough hour=17:00 (min=9.652) | diurnal amplitude=0.736
+      Apr 2025 | overall mean=   10.117 | peak hour=10:00 (max=10.361) | trough hour=05:00 (min=9.849) | diurnal amplitude=0.512
+      May 2025 | overall mean=   10.101 | peak hour=16:00 (max=10.322) | trough hour=06:00 (min=9.944) | diurnal amplitude=0.378
+      Jun 2025 | overall mean=   10.286 | peak hour=06:00 (max=11.152) | trough hour=02:00 (min=6.903) | diurnal amplitude=4.249
+      Aug 2025 | overall mean=   10.487 | peak hour=07:00 (max=10.741) | trough hour=17:00 (min=9.217) | diurnal amplitude=1.524
+
+  Station L4
+      May 2025 | overall mean=   10.225 | peak hour=13:00 (max=10.489) | trough hour=05:00 (min=10.069) | diurnal amplitude=0.420
+      Jun 2025 | overall mean=   10.096 | peak hour=04:00 (max=10.560) | trough hour=12:00 (min=9.530) | diurnal amplitude=1.031
+      Aug 2025 | overall mean=   10.298 | peak hour=01:00 (max=10.542) | trough hour=12:00 (min=10.044) | diurnal amplitude=0.498
+
+  Station L5
+      Mar 2025 | overall mean=   10.002 | peak hour=10:00 (max=10.232) | trough hour=15:00 (min=9.662) | diurnal amplitude=0.569
+      Apr 2025 | overall mean=   10.166 | peak hour=01:00 (max=10.351) | trough hour=15:00 (min=9.945) | diurnal amplitude=0.406
+      May 2025 | overall mean=   10.102 | peak hour=16:00 (max=10.259) | trough hour=12:00 (min=9.963) | diurnal amplitude=0.296
+      Jul 2025 | overall mean=   10.271 | peak hour=16:00 (max=10.335) | trough hour=08:00 (min=10.235) | diurnal amplitude=0.100
+
+  Station L6
+      May 2025 | overall mean=    8.799 | peak hour=18:00 (max=11.162) | trough hour=21:00 (min=5.307) | diurnal amplitude=5.855
+      Jun 2025 | overall mean=   10.257 | peak hour=16:00 (max=10.482) | trough hour=21:00 (min=10.040) | diurnal amplitude=0.442
+      Jul 2025 | overall mean=   10.015 | peak hour=19:00 (max=10.299) | trough hour=00:00 (min=9.714) | diurnal amplitude=0.585
+      Aug 2025 | overall mean=   10.106 | peak hour=01:00 (max=10.320) | trough hour=00:00 (min=9.915) | diurnal amplitude=0.406
+
+------------------------------------------------------------------------
+FEATURE: odo_sat
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   69.701 | peak hour=20:00 (max=90.097) | trough hour=07:00 (min=51.618) | diurnal amplitude=38.479
+      May 2025 | overall mean=   81.179 | peak hour=20:00 (max=96.850) | trough hour=08:00 (min=67.240) | diurnal amplitude=29.610
+      Jun 2025 | overall mean=   79.624 | peak hour=20:00 (max=90.530) | trough hour=10:00 (min=67.729) | diurnal amplitude=22.801
+      Jul 2025 | overall mean=   64.098 | peak hour=20:00 (max=76.687) | trough hour=11:00 (min=52.270) | diurnal amplitude=24.416
+      Aug 2025 | overall mean=   63.081 | peak hour=19:00 (max=86.056) | trough hour=04:00 (min=39.303) | diurnal amplitude=46.753
+
+  Station L1
+      Mar 2025 | overall mean=   86.210 | peak hour=19:00 (max=93.711) | trough hour=12:00 (min=80.495) | diurnal amplitude=13.216
+      Apr 2025 | overall mean=   84.309 | peak hour=22:00 (max=89.189) | trough hour=12:00 (min=80.091) | diurnal amplitude=9.098
+      May 2025 | overall mean=   73.771 | peak hour=20:00 (max=81.265) | trough hour=12:00 (min=64.827) | diurnal amplitude=16.438
+      Jun 2025 | overall mean=   65.284 | peak hour=21:00 (max=75.863) | trough hour=11:00 (min=53.084) | diurnal amplitude=22.779
+      Jul 2025 | overall mean=   58.714 | peak hour=22:00 (max=69.433) | trough hour=12:00 (min=48.734) | diurnal amplitude=20.699
+      Aug 2025 | overall mean=   49.791 | peak hour=21:00 (max=67.469) | trough hour=11:00 (min=31.988) | diurnal amplitude=35.481
+
+  Station L2
+      Mar 2025 | overall mean=   98.614 | peak hour=05:00 (max=107.987) | trough hour=08:00 (min=89.639) | diurnal amplitude=18.348
+      Apr 2025 | overall mean=   98.996 | peak hour=21:00 (max=106.757) | trough hour=13:00 (min=87.854) | diurnal amplitude=18.903
+      May 2025 | overall mean=   91.561 | peak hour=21:00 (max=108.105) | trough hour=12:00 (min=77.160) | diurnal amplitude=30.945
+      Jun 2025 | overall mean=   91.077 | peak hour=20:00 (max=102.289) | trough hour=12:00 (min=78.290) | diurnal amplitude=23.999
+      Jul 2025 | overall mean=   85.206 | peak hour=23:00 (max=97.702) | trough hour=12:00 (min=68.101) | diurnal amplitude=29.601
+      Aug 2025 | overall mean=   69.623 | peak hour=22:00 (max=99.149) | trough hour=09:00 (min=42.372) | diurnal amplitude=56.777
+
+  Station L3
+      Mar 2025 | overall mean=   58.309 | peak hour=16:00 (max=65.086) | trough hour=10:00 (min=49.873) | diurnal amplitude=15.213
+      Apr 2025 | overall mean=   75.268 | peak hour=23:00 (max=83.943) | trough hour=07:00 (min=62.480) | diurnal amplitude=21.463
+      May 2025 | overall mean=   45.908 | peak hour=21:00 (max=58.603) | trough hour=06:00 (min=37.958) | diurnal amplitude=20.646
+      Jun 2025 | overall mean=   25.594 | peak hour=20:00 (max=38.250) | trough hour=13:00 (min=9.199) | diurnal amplitude=29.051
+      Aug 2025 | overall mean=   40.483 | peak hour=22:00 (max=55.057) | trough hour=06:00 (min=31.750) | diurnal amplitude=23.307
+
+  Station L4
+      May 2025 | overall mean=   64.583 | peak hour=22:00 (max=75.144) | trough hour=09:00 (min=57.898) | diurnal amplitude=17.246
+      Jun 2025 | overall mean=   40.285 | peak hour=22:00 (max=44.010) | trough hour=16:00 (min=33.692) | diurnal amplitude=10.318
+      Aug 2025 | overall mean=   46.604 | peak hour=22:00 (max=62.776) | trough hour=08:00 (min=34.889) | diurnal amplitude=27.887
+
+  Station L5
+      Mar 2025 | overall mean=  105.885 | peak hour=20:00 (max=116.017) | trough hour=12:00 (min=95.883) | diurnal amplitude=20.134
+      Apr 2025 | overall mean=   94.311 | peak hour=18:00 (max=111.724) | trough hour=08:00 (min=77.645) | diurnal amplitude=34.080
+      May 2025 | overall mean=   94.872 | peak hour=18:00 (max=107.790) | trough hour=08:00 (min=84.554) | diurnal amplitude=23.236
+      Jul 2025 | overall mean=   87.653 | peak hour=17:00 (max=99.078) | trough hour=10:00 (min=72.652) | diurnal amplitude=26.426
+
+  Station L6
+      May 2025 | overall mean=   90.402 | peak hour=21:00 (max=111.940) | trough hour=11:00 (min=65.213) | diurnal amplitude=46.728
+      Jun 2025 | overall mean=  103.166 | peak hour=21:00 (max=132.101) | trough hour=10:00 (min=78.262) | diurnal amplitude=53.839
+      Jul 2025 | overall mean=   95.335 | peak hour=21:00 (max=121.995) | trough hour=09:00 (min=77.703) | diurnal amplitude=44.292
+      Aug 2025 | overall mean=   98.030 | peak hour=18:00 (max=105.829) | trough hour=15:00 (min=74.990) | diurnal amplitude=30.839
+
+------------------------------------------------------------------------
+FEATURE: odo_mg_l
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=    4.842 | peak hour=21:00 (max=6.682) | trough hour=07:00 (min=3.583) | diurnal amplitude=3.099
+      May 2025 | overall mean=    5.167 | peak hour=20:00 (max=6.134) | trough hour=08:00 (min=4.298) | diurnal amplitude=1.836
+      Jun 2025 | overall mean=    5.147 | peak hour=20:00 (max=5.792) | trough hour=10:00 (min=4.439) | diurnal amplitude=1.354
+      Jul 2025 | overall mean=    4.028 | peak hour=20:00 (max=4.762) | trough hour=11:00 (min=3.327) | diurnal amplitude=1.435
+      Aug 2025 | overall mean=    3.907 | peak hour=19:00 (max=5.335) | trough hour=04:00 (min=2.448) | diurnal amplitude=2.888
+
+  Station L1
+      Mar 2025 | overall mean=    7.060 | peak hour=19:00 (max=7.617) | trough hour=11:00 (min=6.678) | diurnal amplitude=0.939
+      Apr 2025 | overall mean=    6.657 | peak hour=22:00 (max=6.940) | trough hour=12:00 (min=6.388) | diurnal amplitude=0.552
+      May 2025 | overall mean=    5.626 | peak hour=20:00 (max=6.160) | trough hour=12:00 (min=5.032) | diurnal amplitude=1.128
+      Jun 2025 | overall mean=    4.887 | peak hour=21:00 (max=5.648) | trough hour=11:00 (min=4.002) | diurnal amplitude=1.646
+      Jul 2025 | overall mean=    4.371 | peak hour=22:00 (max=5.141) | trough hour=12:00 (min=3.655) | diurnal amplitude=1.486
+      Aug 2025 | overall mean=    3.649 | peak hour=21:00 (max=4.909) | trough hour=11:00 (min=2.373) | diurnal amplitude=2.535
+
+  Station L2
+      Mar 2025 | overall mean=    6.722 | peak hour=04:00 (max=7.294) | trough hour=08:00 (min=6.104) | diurnal amplitude=1.190
+      Apr 2025 | overall mean=    6.804 | peak hour=00:00 (max=7.375) | trough hour=13:00 (min=6.125) | diurnal amplitude=1.250
+      May 2025 | overall mean=    5.814 | peak hour=21:00 (max=6.757) | trough hour=11:00 (min=4.946) | diurnal amplitude=1.811
+      Jun 2025 | overall mean=    5.931 | peak hour=22:00 (max=6.605) | trough hour=12:00 (min=5.151) | diurnal amplitude=1.454
+      Jul 2025 | overall mean=    5.553 | peak hour=01:00 (max=6.257) | trough hour=12:00 (min=4.476) | diurnal amplitude=1.781
+      Aug 2025 | overall mean=    4.375 | peak hour=22:00 (max=6.218) | trough hour=09:00 (min=2.708) | diurnal amplitude=3.510
+
+  Station L3
+      Mar 2025 | overall mean=    4.185 | peak hour=16:00 (max=4.694) | trough hour=10:00 (min=3.559) | diurnal amplitude=1.135
+      Apr 2025 | overall mean=    5.687 | peak hour=18:00 (max=6.228) | trough hour=07:00 (min=4.839) | diurnal amplitude=1.389
+      May 2025 | overall mean=    3.346 | peak hour=21:00 (max=4.227) | trough hour=06:00 (min=2.764) | diurnal amplitude=1.464
+      Jun 2025 | overall mean=    1.865 | peak hour=20:00 (max=2.845) | trough hour=13:00 (min=0.611) | diurnal amplitude=2.234
+      Aug 2025 | overall mean=    2.939 | peak hour=22:00 (max=3.859) | trough hour=06:00 (min=2.365) | diurnal amplitude=1.494
+
+  Station L4
+      May 2025 | overall mean=    4.562 | peak hour=22:00 (max=5.143) | trough hour=11:00 (min=4.162) | diurnal amplitude=0.981
+      Jun 2025 | overall mean=    3.038 | peak hour=22:00 (max=3.297) | trough hour=16:00 (min=2.594) | diurnal amplitude=0.704
+      Aug 2025 | overall mean=    3.326 | peak hour=22:00 (max=4.430) | trough hour=08:00 (min=2.584) | diurnal amplitude=1.846
+
+  Station L5
+      Mar 2025 | overall mean=    7.126 | peak hour=20:00 (max=7.748) | trough hour=12:00 (min=6.519) | diurnal amplitude=1.229
+      Apr 2025 | overall mean=    7.056 | peak hour=17:00 (max=8.241) | trough hour=08:00 (min=5.867) | diurnal amplitude=2.374
+      May 2025 | overall mean=    6.179 | peak hour=16:00 (max=7.016) | trough hour=08:00 (min=5.515) | diurnal amplitude=1.501
+      Jul 2025 | overall mean=    5.623 | peak hour=17:00 (max=6.302) | trough hour=10:00 (min=4.714) | diurnal amplitude=1.588
+
+  Station L6
+      May 2025 | overall mean=    5.535 | peak hour=17:00 (max=6.802) | trough hour=11:00 (min=4.046) | diurnal amplitude=2.757
+      Jun 2025 | overall mean=    6.422 | peak hour=21:00 (max=8.135) | trough hour=10:00 (min=4.929) | diurnal amplitude=3.206
+      Jul 2025 | overall mean=    5.928 | peak hour=21:00 (max=7.472) | trough hour=09:00 (min=4.852) | diurnal amplitude=2.620
+      Aug 2025 | overall mean=    5.972 | peak hour=18:00 (max=6.385) | trough hour=15:00 (min=4.591) | diurnal amplitude=1.794
+
+------------------------------------------------------------------------
+FEATURE: turbidity_fnu
+------------------------------------------------------------------------
+
+  Station L0
+      Apr 2025 | overall mean=   18.069 | peak hour=15:00 (max=25.449) | trough hour=19:00 (min=6.365) | diurnal amplitude=19.084
+      May 2025 | overall mean=    2.324 | peak hour=16:00 (max=5.855) | trough hour=08:00 (min=1.508) | diurnal amplitude=4.347
+      Jun 2025 | overall mean=   24.122 | peak hour=20:00 (max=31.928) | trough hour=07:00 (min=16.318) | diurnal amplitude=15.610
+      Jul 2025 | overall mean=  337.713 | peak hour=21:00 (max=413.767) | trough hour=14:00 (min=272.573) | diurnal amplitude=141.194
+
+  Station L1
+      Mar 2025 | overall mean=   -0.594 | peak hour=19:00 (max=-0.327) | trough hour=03:00 (min=-0.688) | diurnal amplitude=0.361
+      Apr 2025 | overall mean=   -0.916 | peak hour=13:00 (max=-0.496) | trough hour=23:00 (min=-0.981) | diurnal amplitude=0.485
+      May 2025 | overall mean=    0.374 | peak hour=21:00 (max=7.828) | trough hour=03:00 (min=-0.347) | diurnal amplitude=8.175
+      Jun 2025 | overall mean=    0.959 | peak hour=16:00 (max=1.646) | trough hour=14:00 (min=0.616) | diurnal amplitude=1.030
+      Jul 2025 | overall mean=    1.362 | peak hour=19:00 (max=1.830) | trough hour=14:00 (min=0.739) | diurnal amplitude=1.091
+      Aug 2025 | overall mean=    0.461 | peak hour=13:00 (max=2.152) | trough hour=17:00 (min=0.147) | diurnal amplitude=2.006
+
+  Station L2
+      Mar 2025 | overall mean=   28.794 | peak hour=13:00 (max=154.792) | trough hour=20:00 (min=1.799) | diurnal amplitude=152.993
+      Apr 2025 | overall mean=   29.959 | peak hour=23:00 (max=113.587) | trough hour=16:00 (min=0.314) | diurnal amplitude=113.273
+      May 2025 | overall mean=   14.997 | peak hour=22:00 (max=52.137) | trough hour=14:00 (min=1.350) | diurnal amplitude=50.787
+      Jun 2025 | overall mean=    6.065 | peak hour=16:00 (max=16.605) | trough hour=15:00 (min=2.431) | diurnal amplitude=14.174
+      Jul 2025 | overall mean=    0.000 | peak hour=00:00 (max=0.000) | trough hour=00:00 (min=0.000) | diurnal amplitude=0.000
+      Aug 2025 | overall mean=    0.000 | peak hour=00:00 (max=0.000) | trough hour=00:00 (min=0.000) | diurnal amplitude=0.000
+
+  Station L3
+      Mar 2025 | overall mean=    0.959 | peak hour=18:00 (max=7.053) | trough hour=21:00 (min=0.416) | diurnal amplitude=6.637
+      Apr 2025 | overall mean=    4.079 | peak hour=01:00 (max=6.060) | trough hour=04:00 (min=2.808) | diurnal amplitude=3.252
+      May 2025 | overall mean=   36.041 | peak hour=09:00 (max=75.907) | trough hour=07:00 (min=22.339) | diurnal amplitude=53.568
+      Jun 2025 | overall mean=    3.009 | peak hour=19:00 (max=7.843) | trough hour=10:00 (min=1.845) | diurnal amplitude=5.998
+      Aug 2025 | overall mean=    1.388 | peak hour=17:00 (max=5.507) | trough hour=07:00 (min=-0.183) | diurnal amplitude=5.691
+
+  Station L4
+      May 2025 | overall mean=   26.829 | peak hour=02:00 (max=66.888) | trough hour=10:00 (min=16.127) | diurnal amplitude=50.761
+      Jun 2025 | overall mean=    2.459 | peak hour=14:00 (max=4.419) | trough hour=10:00 (min=1.500) | diurnal amplitude=2.919
+      Aug 2025 | overall mean=    1.649 | peak hour=23:00 (max=2.547) | trough hour=08:00 (min=1.189) | diurnal amplitude=1.358
+
+  Station L5
+      Mar 2025 | overall mean=   16.768 | peak hour=04:00 (max=32.065) | trough hour=16:00 (min=3.593) | diurnal amplitude=28.472
+      Apr 2025 | overall mean=  362.188 | peak hour=11:00 (max=526.713) | trough hour=19:00 (min=247.028) | diurnal amplitude=279.686
+      May 2025 | overall mean=   10.795 | peak hour=01:00 (max=51.116) | trough hour=11:00 (min=2.352) | diurnal amplitude=48.765
+      Jul 2025 | overall mean=  103.057 | peak hour=02:00 (max=189.060) | trough hour=04:00 (min=57.325) | diurnal amplitude=131.735
+
+  Station L6
+      May 2025 | overall mean=   23.787 | peak hour=04:00 (max=91.924) | trough hour=09:00 (min=1.132) | diurnal amplitude=90.793
+      Jun 2025 | overall mean=   19.481 | peak hour=22:00 (max=35.741) | trough hour=06:00 (min=13.740) | diurnal amplitude=22.001
+      Jul 2025 | overall mean=   17.063 | peak hour=22:00 (max=77.481) | trough hour=05:00 (min=5.385) | diurnal amplitude=72.096
+      Aug 2025 | overall mean=    4.186 | peak hour=23:00 (max=6.048) | trough hour=17:00 (min=1.862) | diurnal amplitude=4.185
